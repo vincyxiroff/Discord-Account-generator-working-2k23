@@ -4,4 +4,4 @@
 
 
 
-just open the file and follow the setup
+just open the file ad admin and follow the setup
